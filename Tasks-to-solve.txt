@@ -1,2 +1,2 @@
 1. Task: Read all files.
-2. ?????? - print the name of your hometown: ????????? System.out.print("Enter name of your hometown");
+2. Task - print the name of your hometown: Use System.out.print("Enter name of your hometown");
