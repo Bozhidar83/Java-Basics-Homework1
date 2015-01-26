@@ -1,4 +1,4 @@
 1. Task: Read all files.
-2. Homework 1 - Teamwork and personal skills.
-3. Task - print the name of your hometown: Use System.out.print("Enter name of your hometown");
-
+2. Task - print the name of your hometown: Use System.out.print("Enter name of your hometown");
+3. Print curent date and time
+4. Homework 1 - Teamwork and personal skills.
